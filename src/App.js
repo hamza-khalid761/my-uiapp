@@ -113,15 +113,15 @@ function App() {
 
 
       </div>
-      <section className='lg:mx-10 lg:my-5 md:mx-5 md:flex justify-center align-middle w-[350px] h-[150px]'>
-        <div className='lg:flex items-center'>
+      <section className='lg:mx-10 lg:my-5 md:mx-5 md:my-0'>
+        <div className='flex items-center'>
           <img src='/images/hero_background.png'></img>
         </div>
       </section>
 
 
-      <div className='flex justify-center align-middle lg:my-20 text-4xl font-extrabold text-blue-900 md:items-center absolute'>
-        <h1 className=''>What Can We Do ?</h1>
+      <div className='flex justify-center align-middle my-20 text-4xl font-extrabold text-blue-900'>
+        <h1>What Can We Do ?</h1>
       </div>
       <div className='flex flex-row items-start justify-between gap-3 mx-36'>
         <div>
@@ -286,7 +286,7 @@ function App() {
 
       </div>
 
-      <div className='grid grid-cols-5 items-center justify-between lg:mx-5 lg:my-5'>
+      <div className='grid grid-cols-5 items-center justify-between mx-5 my-5'>
         <div>
           <img src='/images/image 3.png' alt=''></img>
         </div>
@@ -330,7 +330,7 @@ function App() {
         </div>
       </div> */}
 
-      <section className='flex items-center mx-10 my-5 md:mx-5 md:my-0' >
+      <section >
         <div>
           <img src='/images/Frame 71.png' alt=''></img>
         </div>
