@@ -205,7 +205,7 @@ function App() {
           </div>
           <div>
             <div className='flex flex-row gap-4'>
-              <img src='/images/Frame 4176.png' alt=''></img>
+              <img src='/images/Frame 4176 (2).png' alt=''></img>
               <h1 className='text-lg font-bold'>What is Lorem <br></br> Ipsum?
               </h1>
             </div>
@@ -215,7 +215,7 @@ function App() {
         <div className='flex flex-col items-center justify-between gap-6 pt-24 -ml-48'>
           <div>
             <div className='flex flex-row gap-4'>
-              <img src='/images/Frame 4176.png' alt=''></img>
+              <img src='/images/Frame 4176 (1).png' alt=''></img>
               <h1 className='text-lg font-bold'>What is Lorem <br></br> Ipsum?
               </h1>
             </div>
@@ -223,7 +223,7 @@ function App() {
           </div>
           <div>
             <div className='flex flex-row gap-4'>
-              <img src='/images/Frame 4176.png' alt=''></img>
+              <img src='/images/Frame 4176 (3).png' alt=''></img>
               <h1 className='text-lg font-bold'>What is Lorem <br></br> Ipsum?
               </h1>
             </div>
@@ -330,13 +330,13 @@ function App() {
         </div>
       </div> */}
 
-      <section >
+      <section className='mx-10 my-10' >
         <div>
           <img src='/images/Frame 71.png' alt=''></img>
         </div>
       </section>
       <footer>
-        <div  className='grid grid-cols-5 items-center gap-10 mx-10 my-20'>
+        <div  className='grid grid-cols-5 items-center gap-10 lg:mx-10 my-20'>
           <div>
             <strong className='text-2xl'> A+ Studio</strong>
             <p className='text-sm text-gray-400 pt-7'>Leading digital agency with solid <br></br> design and development expertise. We <br></br> build readymade websites, mobile <br></br> applications, and elaborate online <br></br> business services.</p>
